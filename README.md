@@ -4,4 +4,4 @@
  - Speed modifier ranging from 5 to 300 generations per second
  - Cell size can be scaled from 5 px up to 50 px
  - Coordinate system that can track where your mouse at
-Coded by Java used AI tools
+ - Coded by Java used AI tools
